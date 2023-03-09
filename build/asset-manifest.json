@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f5d0f89.css",
+    "main.js": "/static/js/main.44c3bcdc.js",
+    "static/media/model.png": "/static/media/model.5d5c4b4557d1e1ebdd3d.png",
+    "static/media/snikkers.png": "/static/media/snikkers.fea199120c5a5274b625.png",
+    "static/media/jordan.png": "/static/media/jordan.b56809cfe5553e5f9069.png",
+    "index.html": "/index.html",
+    "main.2f5d0f89.css.map": "/static/css/main.2f5d0f89.css.map",
+    "main.44c3bcdc.js.map": "/static/js/main.44c3bcdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f5d0f89.css",
+    "static/js/main.44c3bcdc.js"
+  ]
+}
